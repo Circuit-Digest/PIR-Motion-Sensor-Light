@@ -1,6 +1,8 @@
 # PIR-Motion-Sensor-Light
 ![PIR-Motion-Sensor-Light](https://github.com/Circuit-Digest/PIR-Motion-Sensor-Light/blob/main/Thumbnail%20Image/PIR.jpg)
 
+Full project: https://circuitdigest.com/microcontroller-projects/how-to-build-pir-motion-sensor-light
+
 ## 📜 Summary
 This motion sensor light project, utilizing a PIR sensor and relay, illuminates a bulb when detecting human motion. Simple and versatile, it finds applications in security systems and basic automation setups.
 
